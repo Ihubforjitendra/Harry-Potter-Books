@@ -17,8 +17,7 @@ Agenda :
 2. Preprocess book text (Co-reference resolution)
 3. Entity recognition with SpaCy’s rule-based matching
 4. Infer relationships between characters
-5. Store results to Neo4j graph database
-6. I have prepared a Google Colab notebook if you want to follow along.
+5. Store results to Neo4j graph database.
 
 Harry Potter Fandom Page Scraping :
 ====================================
